@@ -17,6 +17,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+
+    - name: Setup WSL
+      uses: Vampire/setup-wsl@v3.1.3
+            
     - name: Checkout
       uses: actions/checkout@master
 
