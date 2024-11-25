@@ -1,4 +1,4 @@
-            - name: Setup WSL
+- name: Setup WSL
   # You may pin to the exact commit or the version.
   # uses: Vampire/setup-wsl@6f87de3102a29ac6b92800f33bf1e8d9164ac0a1
   uses: Vampire/setup-wsl@v3.1.1
